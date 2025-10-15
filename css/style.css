@@ -488,7 +488,8 @@ input[type="submit"]:hover {
     .footer1 {
         display: flex;
         flex-wrap: wrap;
-        flex-direction: column;text-align: center;
+        flex-direction: column;
+        text-align: center;
     }
 
     .footer1 h2 {
